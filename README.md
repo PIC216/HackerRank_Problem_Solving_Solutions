@@ -1,4 +1,4 @@
-# HackerRank_Problem_Solving_Solutions
+# HackerRank Problem Solving Algorithm Solutions
 
 These are my Python solutions to the HackerRank Problem Solving Algorithm problems. Please don't use them to cheat but I hope they might give someone an idea when stuck.
 
