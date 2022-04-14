@@ -14,7 +14,7 @@ import sys
 #
 
 def camelcase(s):
-    # Write your code here
+    # takes a string s formed of multiple concatenated words where all words bar the first start with a capital letter, returns the number of words
     count = 1
     capital = s.upper()
     for i in range(len(s)):
