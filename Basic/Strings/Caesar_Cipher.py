@@ -16,7 +16,7 @@ import sys
 #
 
 def caesarCipher(s, k):
-    # Write your code here
+    # takes a string s and a value k to be used to rotate the alphabet and form a Caesar Cipher of s
     original_alphabet = [x for x in "abcdefghijklmnopqrstuvwxyz"]
     new_alphabet = [x for x in "abcdefghijklmnopqrstuvwxyz"]
     for i in range(k):
